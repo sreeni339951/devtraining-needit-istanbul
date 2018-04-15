@@ -28,7 +28,7 @@ NeedItUtils.prototype = {
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-15 13:17:04</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>7424a62cdb29130000a6793ebf9619a5</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>NeedItUtils</sys_name>
